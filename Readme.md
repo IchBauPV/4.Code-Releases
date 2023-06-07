@@ -1,6 +1,6 @@
-# Code - Relases #
-In diesem Repository brefindet sich der ESP32 Souce Code zu den Releases.
-Es müssen einige Libraries installiert werden (etwa 7), damit das Programm erfolgreich compiliert werden kann. Hinweise sind in den jeweiligen Haupt-Ino-Datei in den Kommentaren enthalten.
+# Code - Releases #
+In diesem Repository befindet sich der ESP32 Source-Code zu den Releases.
+Es müssen einige Libraries installiert werden (meist 3, s. Zeile 70), damit das Programm erfolgreich compiliert werden kann. Hinweise sind in den jeweiligen Haupt-Ino-Datei in den Kommentaren enthalten.
 
 ## Konfiguration: ##
 Board: ESP32 Dev Module  
